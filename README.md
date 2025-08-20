@@ -1,4 +1,4 @@
-**Kopi Nangkau Sales Analysis **
+**Kopi Nangkau Sales Analysis**
 
 **Tujuan**
 - Menghitung total unit dan pendapatan untuk setiap produk kopi.
