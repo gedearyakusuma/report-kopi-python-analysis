@@ -1,4 +1,6 @@
-**Kopi Nangkau Sales Analysis**
+## Kopi Nangkau Sales Analysis
+
+Analisis ini dilakukan untuk melihat performa penjualan kopi tahun 2021–2023 dengan cara menghitung total unit dan pendapatan per produk, rata-rata unit terjual per hari tiap tahun, menemukan produk terlaris, serta menampilkan grafik batang total unit terjual per produk.
 
 **Tujuan**
 - Menghitung total unit dan pendapatan untuk setiap produk kopi.
